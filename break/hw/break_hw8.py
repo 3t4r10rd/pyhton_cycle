@@ -18,4 +18,4 @@ while i < len(lst_in):
     res.append(lst_in[i])
     i += 1
 
-print(*res)
+print(*res) `1
